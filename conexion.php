@@ -6,7 +6,7 @@
     $servidorDB = "localhost";
     $nombreDB = "id19513855_proyecto";
     $usuarioDB = "id19513855_andresv";
-    $passwordDB = "CRtX{>W1HV-\#N=O";
+    $passwordDB = "password";
     */
     
     $servidorDB = "localhost";
